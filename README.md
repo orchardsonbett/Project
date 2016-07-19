@@ -5,7 +5,7 @@ My personal projects
 
 Animate
 
-Repo Link
+Link to website
 
 https://orchardsonbett.github.io/animate
 
