@@ -7,7 +7,7 @@ Animate
 
 Repo Link
 
-https://orchardsonbett.github.io/Animate
+https://orchardsonbett.github.io/animate
 
 Project Details Animate has a picture animation where fade was applied
 
