@@ -21,4 +21,23 @@ Tools Foundation 6
 Contributors orchardsonbett
 
 
+# Project
+avrg
+
+Link to website
+
+http://orchardsonbett.github.io/avrg
+
+Project Details;Two page website made from an example on css awards site
+
+Features Two-page website NavBar Links:
+
+Home
+Contact
+
+Tools Foundation 6
+
+Contributors orchardsonbett
+
+
 
