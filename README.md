@@ -1,78 +1,64 @@
 # Project
-this is where my projects are stored
-
-My portfolio
-
-portfolio-1
-
-Link to website
-
-https://porfolio.bitballoon.com/
-
-Project Details A one page with a description about me and three projects
-
-Features One-pager
-
-Tools Foundation 6
-
-Contributors orchardsonbett
-
-# Project
-this is where my projects are stored
-
-My personal projects
-
-Animate
-
-Link to website
-
-https://orchardsonbett.github.io/animate
-
-Project Details Animate has a picture animation where fade was applied
-
-Features One-page website NavBar Links:
-
-Home
-About 
-
-Tools Foundation 6
-
-Contributors orchardsonbett
 
 
-# Project
-avrg
+1. #My portfolio
 
-Link to website
+    portfolio-1
 
-http://orchardsonbett.github.io/avrg
+    Link to website:https://porfolio.bitballoon.com/
 
-Project Details;Two page website made from an example on css awards site
+    Project Details A one page with a description about me and three projects
 
-Features Two-page website NavBar Links:
+    Tools Foundation 6
 
-Home
-Contact
-
-Tools Foundation 6
-
-Contributors orchardsonbett
+    Contributors orchardsonbett
 
 
-# Project
-womenempowerment
+2. ##My personal projects
 
-Link to website
+  1.*Animate*
 
-http://womenempowerment.bitballoon.com/
+  Link to website: https://orchardsonbett.github.io/animate
 
-Project Details;one page webpage about women empowerment
+  Project Details Animate has a picture animation where fade was applied
 
-Features one-page website
+  Features One-page website NavBar Links:
+   Home
+   About 
 
-Tools Foundation 6
+  Tools Foundation 6
 
-Contributors orchardsonbett , harison gitau
+  Contributors orchardsonbett
+
+
+
+ 2.avrg
+
+  Link to website:http://orchardsonbett.github.io/avrg
+
+  Project Details;Two page website made from an example on css awards site
+
+  Features Two-page website NavBar Links:
+    Home
+    Contact
+
+  Tools Foundation 6
+
+  Contributors orchardsonbett
+
+
+
+3. *womenempowerment*
+
+   Link to website:http://womenempowerment.bitballoon.com/
+
+   Project Details;one page webpage about women empowerment
+
+   Features one-page website
+
+   Tools Foundation 6
+
+   Contributors orchardsonbett , harison gitau
 
 
 
