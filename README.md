@@ -14,7 +14,7 @@
     Contributors orchardsonbett
 
 
-2. ##My personal projects
+2. ##My personal Html projects
 
   1.*Animate*
 
