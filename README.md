@@ -1,7 +1,4 @@
-# Project
-
-
-1. #My portfolio
+#My portfolio
 
     portfolio-1
 
@@ -13,8 +10,9 @@
 
     Contributors orchardsonbett
 
+# Project
 
-2. ##My personal front end projects
+##My personal front end projects
 
   1.*Animate*
 
