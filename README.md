@@ -14,7 +14,7 @@
     Contributors orchardsonbett
 
 
-2. ##My personal Html projects
+2. ##My personal front end projects
 
   1.*Animate*
 
