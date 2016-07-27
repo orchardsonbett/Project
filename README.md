@@ -28,7 +28,7 @@
 
 
 
- 2.avrg
+ 2.*avrg*
 
   Link to website:http://orchardsonbett.github.io/avrg
 
@@ -44,7 +44,7 @@
 
 
 
-3. *womenempowerment*
+3.*womenempowerment*
 
    Link to website:http://womenempowerment.bitballoon.com/
 
