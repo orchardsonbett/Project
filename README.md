@@ -1,14 +1,12 @@
 #My portfolio
 
-    portfolio-1
+ portfolio-1
 
-    Link to website:https://porfolio.bitballoon.com/
+ Link to website:https://porfolio.bitballoon.com/
 
-    Project Details A one page with a description about me and three projects
+ Tools Foundation 6
 
-    Tools Foundation 6
-
-    Contributors orchardsonbett
+ Contributors orchardsonbett
 
 # Project
 
